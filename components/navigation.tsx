@@ -3,7 +3,7 @@ import React from "react"
 const Navigation = () => {
     return (
         <div className="sticky top-0 z-20 py-6 mb-6 bg-[#0e1212]">
-            <nav className="sticky top-0 z-20 flex items-center justify-between flex-wrap">
+            <nav className="sticky top-0 z-20 flex items-center justify-between flex-wrap mx-10">
                 <div className="flex items-center flex-shrink-0 text-violet-600 mr-6 border-2 border-violet-600">
                     <span className="font-semibold text-3xl tracking-tight m-1">JH</span>
                 </div>
@@ -21,7 +21,7 @@ const Navigation = () => {
                         <a href="#projects" className="block mt-4 inline-block mt-0 hover:text-violet-600 text-slate-100 mr-4 duration-300">
                             Projects
                         </a>
-                        <a href="#contact" className="block mt-4 inline-block mt-0 hover:text-violet-600 text-slate-100 duration-300">
+                        <a href="mailto:mail@janes-horst.de" className="block mt-4 inline-block mt-0 hover:text-violet-600 text-slate-100 duration-300">
                             Contact
                         </a>
                     </div>

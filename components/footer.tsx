@@ -2,12 +2,12 @@ import React from "react";
 
 const Footer = () => {
     return (
-        <div className="mt-12 lg:mt-18 sm:pb-18 sm:py-12 py-6">
-            <div className="px-4 mx-auto text-gray-400">
+        <div className="mt-12 mt-18 pb-18 py-6">
+            <div className="mx-auto text-gray-400">
                 <div className="h-px mb-10 bg-gradient-to-r from-transparent via-violet-600 to-transparent"></div>
-                <div className="flex flex-col justify-between lg:flex-row items-center">
+                <div className="flex flex-col justify-between items-center">
                     <p>Built with Next.js, Tailwind and Docker</p>
-                    <div className="flex flex-wrap pt-2 sm:space-x-4 space-x-2 font-medium lg:pt-0">
+                    <div className="flex flex-wrap pt-2 space-x-4 space-x-2 font-medium">
                         <a
                             href="https://www.xing.com/profile/Janes_Horst"
                             className={"transition-colors hover:text-violet-600 duration-300"}
