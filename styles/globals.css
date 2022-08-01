@@ -6,10 +6,3 @@ html {
     scroll-behavior: smooth;
     background-color: #0e1212;
 }
-
-.rotated-content {
-    transform: scaleX(1) scaleY(1) scaleZ(1) rotateX(10deg) rotateY(-17deg) rotateZ(0deg) translateX(0px) translateY(0px) translateZ(0px) skewX(0deg) skewY(0deg);
-    -webkit-box-shadow: -44px 15px 50px -8px #6a32be62;
-    box-shadow: -44px 50px 50px -30px #6a32be62;
-    transform-style: preserve-3d;
-}
