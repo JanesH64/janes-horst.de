@@ -13,7 +13,7 @@ const About = () => {
             </div>
         </div>
         <div className="mt-10 flex items-center justify-center flex-wrap">
-            <div className="p-6 max-w-sm rounded-lg border shadow-md bg-violet-900 border-gray-700 m-2 h-60">
+            <div className="p-6 max-w-sm rounded-lg border shadow-md bg-violet-900 border-gray-700 m-2 h-60 rotated-content">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">Frameworks</h5>
                 <div className="flex justify-center w-full h-5/6 overflow-y-scroll overflow-x-hidden">
                     <ul className="w-96 mb-3 font-normal text-gray-200">
@@ -25,7 +25,7 @@ const About = () => {
                 </div>
             </div>
 
-            <div className="p-6 max-w-sm rounded-lg border shadow-md bg-violet-900 border-gray-700 m-2 h-60">
+            <div className="p-6 max-w-sm rounded-lg border shadow-md bg-violet-900 border-gray-700 m-2 h-60 rotated-content">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">Programming Languages</h5>
                 <div className="flex justify-center w-full h-5/6 overflow-y-scroll overflow-x-hidden">
                     <ul className="w-96 mb-3 font-normal text-gray-200">
@@ -37,7 +37,7 @@ const About = () => {
                 </div>
             </div>
 
-            <div className="p-6 max-w-sm rounded-lg border shadow-md bg-violet-900 border-gray-700 m-2 h-60">
+            <div className="p-6 max-w-sm rounded-lg border shadow-md bg-violet-900 border-gray-700 m-2 h-60 rotated-content">
                 <h5 className="mb-2 text-2xl font-bold tracking-tight text-white">Tools</h5>
                 <div className="flex justify-center w-full h-5/6 overflow-y-scroll overflow-x-hidden">
                     <ul className="w-96 mb-3 font-normal text-gray-200">
