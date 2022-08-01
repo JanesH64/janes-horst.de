@@ -2,7 +2,7 @@ import React from "react"
 
 const Navigation = () => {
     return (
-        <div className="sticky top-0 z-20 py-6 mb-6 bg-[#0e1212]">
+        <div className="sticky top-0 z-20 py-6 mb-6 bg-[#0e1212] z-50">
             <nav className="sticky top-0 z-20 flex items-center justify-between flex-wrap mx-10">
                 <div className="flex items-center flex-shrink-0 text-violet-600 mr-6 border-2 border-violet-600">
                     <span className="font-semibold text-3xl tracking-tight m-1">JH</span>
