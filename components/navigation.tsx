@@ -18,9 +18,6 @@ const Navigation = () => {
                         <a href="#about" className="block mt-4 inline-block mt-0 hover:text-violet-600 text-slate-100 mr-4 duration-300">
                             About
                         </a>
-                        <a href="#projects" className="block mt-4 inline-block mt-0 hover:text-violet-600 text-slate-100 mr-4 duration-300">
-                            Projects
-                        </a>
                         <a href="mailto:mail@janes-horst.de" className="block mt-4 inline-block mt-0 hover:text-violet-600 text-slate-100 duration-300">
                             Contact
                         </a>
